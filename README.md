@@ -66,8 +66,7 @@ Sales target.
 <p>Chocolate are the high margin products. Also, it’s the most popular products. The company should promote and push for those products into the states. Sugar products, all in all, has the lowest margin and the least market share. Perhaps, the company can eliminate sugar products due to the inefficiencies. </p>
 
 <h2>Tableau Dashboard</h2>
-<p>Here is the dashboard <a href="https://public.tableau.com/app/profile/kun.bi/viz/candy_project_1/Business_Metrics">Part 1</a> and <a href="https://public.tableau.com/app/profile/kun.bi/viz/candy_project_2/TopRegions">Part 2</a></p>
-
+<p>Here is the <a href="https://public.tableau.com/app/profile/kun.bi/viz/Candy_Projects/Business_Metrics">Dashboard</a>.
 
 ![candy_p1](https://github.com/user-attachments/assets/b49836f5-c606-4e82-b3d9-d3037383d37a)![candy_p2](https://github.com/user-attachments/assets/0a204e8d-3a9e-45a7-ac9e-9163ac512130)
 
